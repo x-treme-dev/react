@@ -1,0 +1,26 @@
+ 
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .default-button, .active-button, .default-link{
+        font-size: 1.2em;
+    }
+
+    .default-button {
+    background-color: #7fb3d5 ;
+    color: white;
+    }
+    .active-button {
+    background-color: green;
+    color: white;
+    }
+    .default-link {
+   
+    color: #aed6f1;
+    }
+    .active-link {
+    color: #5dade2;
+    }
+ 
